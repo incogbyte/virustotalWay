@@ -117,3 +117,5 @@ Subdomains written to subdomains.txt (5 entries)
 IPs written to ips.txt (3 entries)
 All done!
 ```
+
+Thanks to https://github.com/orwagodfather/virustotalx
